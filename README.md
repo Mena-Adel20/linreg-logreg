@@ -16,4 +16,9 @@
 <li>numerical features are standardized</li>
 </ol>
 
+ ### Fit a linear regression model to the data to predict the loan amount, Using sklearn's linear regression.
+ ### Evaluate the linear regression model using sklearn's R2 score.
+### Fit a logistic regression model to the data to predict the loan status-> Implement logistic regression from scratch using gradient descent.
+### Write a function (from scratch) to calculate the accuracy of the model
+
 
